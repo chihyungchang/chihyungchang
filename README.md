@@ -34,7 +34,7 @@ Both are free and Apache 2.0.
 
 <!-- BLOG-POST-LIST:START -->
 - [How long would a hacker need to crack your password?](https://oliverz.dev/blog/password-crack-time)
-- [Two fake Upwork jobs, one infected Mac: my run-ins with North Korea's Contagious Interview](https://oliverz.dev/blog/upwork-contagious-interview)
+- [Two fake Upwork jobs, one infected Mac: my run-ins with North Korea&#39;s Contagious Interview](https://oliverz.dev/blog/upwork-contagious-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ## Also on GitHub
