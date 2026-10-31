@@ -33,6 +33,7 @@ Both are free and Apache 2.0.
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Where does your Claude Code prompt go?](https://oliverz.dev/blog/claude-code-enter)
 - [How long would a hacker need to crack your password?](https://oliverz.dev/blog/password-crack-time)
 - [Two fake Upwork jobs, one infected Mac: my run-ins with North Korea&#39;s Contagious Interview](https://oliverz.dev/blog/upwork-contagious-interview)
 <!-- BLOG-POST-LIST:END -->
