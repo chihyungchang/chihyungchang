@@ -33,9 +33,10 @@ Both are free and Apache 2.0.
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Where does your Claude Code prompt go?](https://oliverz.dev/blog/claude-code-enter)
-- [How long would a hacker need to crack your password?](https://oliverz.dev/blog/password-crack-time)
-- [Two fake Upwork jobs, one infected Mac: my run-ins with North Korea&#39;s Contagious Interview](https://oliverz.dev/blog/upwork-contagious-interview)
+- [How North Korea laundered $1.5 billion from Bybit, in three steps](https://oliverz.dev/videos/bybit-laundering)
+- [How GPS works: the satellites don&#39;t know where you are](https://oliverz.dev/videos/gps)
+- [How a zipper works: no glue, just shape](https://oliverz.dev/videos/zipper)
+- [The coffee belt: where coffee grows, where it goes, and the land it could lose](https://oliverz.dev/videos/coffee-belt)
 <!-- BLOG-POST-LIST:END -->
 
 ## Also on GitHub
