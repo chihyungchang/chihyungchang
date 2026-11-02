@@ -33,10 +33,10 @@ Both are free and Apache 2.0.
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [How North Korea laundered $1.5 billion from Bybit, in three steps](https://oliverz.dev/videos/bybit-laundering)
-- [How GPS works: the satellites don&#39;t know where you are](https://oliverz.dev/videos/gps)
-- [How a zipper works: no glue, just shape](https://oliverz.dev/videos/zipper)
-- [The coffee belt: where coffee grows, where it goes, and the land it could lose](https://oliverz.dev/videos/coffee-belt)
+- [How QR codes work: why a torn code still scans](https://oliverz.dev/videos/qr-error-correction)
+- [How planes fly: the “longer path” story is wrong](https://oliverz.dev/videos/airplane-lift)
+- [How a differential works: why your wheels turn at two speeds](https://oliverz.dev/videos/differential)
+- [How noise cancelling works: it fights noise with more noise](https://oliverz.dev/videos/noise-cancelling)
 <!-- BLOG-POST-LIST:END -->
 
 ## Also on GitHub
