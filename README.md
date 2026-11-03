@@ -33,10 +33,10 @@ Both are free and Apache 2.0.
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [How a lock works: why only your key turns it](https://oliverz.dev/videos/lock-and-key)
 - [How QR codes work: why a torn code still scans](https://oliverz.dev/videos/qr-error-correction)
 - [How planes fly: the “longer path” story is wrong](https://oliverz.dev/videos/airplane-lift)
 - [How a differential works: why your wheels turn at two speeds](https://oliverz.dev/videos/differential)
-- [How noise cancelling works: it fights noise with more noise](https://oliverz.dev/videos/noise-cancelling)
 <!-- BLOG-POST-LIST:END -->
 
 ## Also on GitHub
