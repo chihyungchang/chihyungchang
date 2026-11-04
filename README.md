@@ -30,7 +30,7 @@ I build full-stack products, Web3D and AR/XR experiences, and free, open-source 
 
 Both are free and Apache 2.0.
 
-## Writing
+## Videos
 
 <!-- BLOG-POST-LIST:START -->
 - [How a lock works: why only your key turns it](https://oliverz.dev/videos/lock-and-key)
