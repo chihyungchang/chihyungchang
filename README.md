@@ -7,7 +7,7 @@
 
 I build full-stack products, Web3D and AR/XR experiences, and free, open-source Mac apps. I also make short videos about how tech works.
 
-[oliverz.dev](https://oliverz.dev) · [中文](https://oliverz.dev/zh) · [Português](https://oliverz.dev/pt-br) · [YouTube](https://www.youtube.com/@oliverzdev) · [instagram](https://www.instagram.com/oliverzdev) · [X](https://x.com/oliverzdev) · [LinkedIn](https://www.linkedin.com/in/oliverzdev/)
+[oliverz.dev](https://oliverz.dev) · [中文](https://oliverz.dev/zh) · [Português](https://oliverz.dev/pt-br) · [YouTube](https://www.youtube.com/@oliverzdev) · [Instagram](https://www.instagram.com/oliverzdev) · [X](https://x.com/oliverzdev) · [LinkedIn](https://www.linkedin.com/in/oliverzdev/)
 
 ## Apps
 
